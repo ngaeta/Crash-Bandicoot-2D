@@ -1,0 +1,10 @@
+Up = Jump
+Left = Move Left
+Right = Move Right
+Down   = Crouch
+Space  = Attack
+
+Up during Movement  =  Long Jump
+Down + Right or Left = Crouch Movement
+Hold Down = Stay crouch
+Release Down = Stand up
